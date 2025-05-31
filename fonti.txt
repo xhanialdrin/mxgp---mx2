@@ -1,0 +1,27 @@
+<html>
+<head>
+<title> Fonti delle informazioni </title>
+</head>
+<body>
+<h1> <center> FONTI DELLE INFORMAZIONI </center> </h1>
+<br>
+Ringraziamo i seguenti siti per averci fornito informazioni e immagini riguardanti il contenuto del nostro sito:
+<br>
+
+  <ul>
+    <li class="ktm"><a href="https://www.ktm.com/it-it/racing.html" target="_blank">KTM Racing</a></li>
+    <li class="husqvarna"><a href="https://www.husqvarna-motorcycles.com/it-it/models/motocross.html" target="_blank">Husqvarna Motocross</a></li>
+    <li class="triumph"><a href="https://www.triumphmotorcycles.it/for-the-ride/racing/mxgp" target="_blank">Triumph Factory MXGP</a></li>
+    <li class="honda"><a href="https://powersports.honda.com/racing/mx-sx" target="_blank">Honda Racing</a></li>
+    <li class="ducati"><a href="https://www.ducati.com/it/it/racing/motocross" target="_blank">Ducati Corse Motocross</a></li>
+    <li class="kawasaki"><a href="https://racing.kawasaki.eu/en/racing/motocross" target="_blank">Kawasaki Racing</a></li>
+    <li class="yamaha"><a href="https://global.yamaha-motor.com/race/team/" target="_blank">Yamaha Racing</a></li>
+    <li class="fantic"><a href="https://fantic.com/au-en/motocross.cshtml" target="_blank">Fantic Racing</a></li>
+    <li class="beta"><a href="https://www.betamotor.com/it" target="_blank">Beta Motor</a></li>
+  </ul>
+
+
+
+
+</body>
+</html>
